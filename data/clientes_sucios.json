@@ -1,0 +1,37 @@
+[
+    {
+        "id_cliente":705,
+        "nombre":"Carlos Angulo Ramírez",
+        "email":"marylopez@example.org",
+        "telefono":"(+57)3297596547",
+        "direccion":"Cl. 185 # 44-2\n417962\nPital, Huila"
+    },
+    {
+        "id_cliente":429,
+        "nombre":"Viviana Ospina",
+        "email":"correo_invalido.com",
+        "telefono":"2148586",
+        "direccion":"Carrera 55 # 81-7 Sur\n184935\nLa Montañita, Caquetá"
+    },
+    {
+        "id_cliente":899,
+        "nombre":"Antonio Hernández Jiménez",
+        "email":"marthamelo@example.net",
+        "telefono":"+57 312 819 02 58",
+        "direccion":"Tr. 157I # 66-6 Sur\n851534\nSácama, Casanare"
+    },
+    {
+        "id_cliente":88,
+        "nombre":"Héctor Andrés Silva Jiménez",
+        "email":"ernesto57@example.net",
+        "telefono":"01 8008 961 548",
+        "direccion":"Calle 4 Sur # 1-62\nBodega 605\n860276\nColón, Putumayo"
+    },
+    {
+        "id_cliente":323,
+        "nombre":"Viviana Cortés Quintero",
+        "email":"santiago29@example.org",
+        "telefono":"57 306 188 90 52",
+        "direccion":"Carrera 85 # 59-56 Sur\nOficina 380\n529789\nPolicarpa, Nariño"
+    }
+]
