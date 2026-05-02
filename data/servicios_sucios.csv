@@ -1,0 +1,6 @@
+id_servicio,nombre,descripcion,precio_base
+434.0,servicio X,Diagnóstico completo de la lavadora,
+997.0,servicio X,Servicio de mantenimiento preventivo,
+,Diagnostico,Servicio de mantenimiento preventivo,40.0
+991.0,otro servicio raro,Diagnóstico completo de la lavadora,
+204.0,Diagnostico,Servicio de mantenimiento preventivo,0.0

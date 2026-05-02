@@ -5,22 +5,18 @@ def generar_servicios(num_servicios):
     servicios = []
 
     nombres = [
-        "Mantenimiento básico",
-        "Reparación motor",
-        "Cambio de bomba",
-        "Limpieza profunda",
-        "Revisión general"
+        "Mantenimiento",
+        "Diagnostico",
+        "Reparacion"
     ]
 
     descripciones = [
-        "Servicio estándar de mantenimiento",
-        "Reparación de componentes internos",
-        "Cambio de piezas dañadas",
-        "Limpieza completa del sistema",
-        "Diagnóstico general"
+        "Servicio de mantenimiento preventivo",
+        "Diagnóstico completo de la lavadora",
+        "Reparación y reemplazo de componentes"
     ]
 
-    precios = [50000, 80000, 120000, 60000, 40000]
+    precios = [130, 40, None]
 
     for _ in range(num_servicios):
         servicio = {

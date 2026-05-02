@@ -8,6 +8,10 @@ import pandas as pd
 
 def limpiar_datos_clientes(df_sucio):
     df_limpio = df_sucio.copy()
+    
+    #0 renombrar columnas
+    df_limpio = df_limpio.rename(columns={"id_cliente": "id", "telefono": "tel"})
+    
     #1 limpiar las col de string
     col_text=["nombre", "tel", "direccion", "email"]
     for col in col_text:
@@ -32,3 +36,5 @@ def limpiar_datos_clientes(df_sucio):
 
     #4 eliminar registros duplicados
     df_limpio = df_limpio.drop_duplicates()
+    
+    return df_limpio

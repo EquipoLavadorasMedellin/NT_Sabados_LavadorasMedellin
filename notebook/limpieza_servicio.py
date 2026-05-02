@@ -10,11 +10,9 @@ def limpiar_servicios(df):
 
     # 2. valores válidos
     servicios_validos = [
-        "Mantenimiento básico",
-        "Reparación motor",
-        "Cambio de bomba",
-        "Limpieza profunda",
-        "Revisión general"
+        "Mantenimiento",
+        "Diagnostico",
+        "Reparacion"
     ]
 
     df_limpio["nombre"] = df_limpio["nombre"].where(

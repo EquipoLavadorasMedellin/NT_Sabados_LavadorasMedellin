@@ -1,5 +1,5 @@
 import pandas as pd
-
+    
 def describir_clientes(df_limpio):
     print("/Descripción del DataFrame de Clientes/")
 
