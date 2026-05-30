@@ -1,0 +1,14 @@
+[
+    {
+        "nombre":"Mantenimiento",
+        "sumatoria":130000.0
+    },
+    {
+        "nombre":"Reparacion electrica",
+        "sumatoria":150000.0
+    },
+    {
+        "nombre":"Revision",
+        "sumatoria":130000.0
+    }
+]

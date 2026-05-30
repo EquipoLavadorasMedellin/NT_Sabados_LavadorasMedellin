@@ -1,0 +1,18 @@
+[
+    {
+        "nombre":"Diagnostico",
+        "promedio":40000.0
+    },
+    {
+        "nombre":"Mantenimiento",
+        "promedio":130000.0
+    },
+    {
+        "nombre":"Reparacion electrica",
+        "promedio":150000.0
+    },
+    {
+        "nombre":"Revision",
+        "promedio":130000.0
+    }
+]

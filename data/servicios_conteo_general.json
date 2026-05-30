@@ -1,0 +1,22 @@
+[
+    {
+        "nombre":"Diagnostico",
+        "conteo":1
+    },
+    {
+        "nombre":"Mantenimiento",
+        "conteo":1
+    },
+    {
+        "nombre":"Reparacion",
+        "conteo":1
+    },
+    {
+        "nombre":"Reparacion electrica",
+        "conteo":1
+    },
+    {
+        "nombre":"Revision",
+        "conteo":1
+    }
+]

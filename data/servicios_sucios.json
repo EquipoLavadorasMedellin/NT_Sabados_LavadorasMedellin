@@ -1,32 +1,32 @@
 [
     {
-        "id_servicio":434.0,
-        "nombre":"servicio X",
+        "id_servicio":502.0,
+        "nombre":" DIAGNOSTICO",
         "descripcion":"Diagnóstico completo de la lavadora",
+        "precio_base":40.0
+    },
+    {
+        "id_servicio":null,
+        "nombre":"Mantenimiento",
+        "descripcion":"Reparación y reemplazo de componentes",
+        "precio_base":40.0
+    },
+    {
+        "id_servicio":164.0,
+        "nombre":"Reparacion",
+        "descripcion":"Reparación y reemplazo de componentes",
         "precio_base":null
     },
     {
-        "id_servicio":997.0,
-        "nombre":"servicio X",
-        "descripcion":"Servicio de mantenimiento preventivo",
+        "id_servicio":752.0,
+        "nombre":" REPARACION",
+        "descripcion":"Diagnóstico completo de la lavadora",
         "precio_base":null
     },
     {
         "id_servicio":null,
-        "nombre":"Diagnostico",
+        "nombre":"Mantenimiento",
         "descripcion":"Servicio de mantenimiento preventivo",
-        "precio_base":40.0
-    },
-    {
-        "id_servicio":991.0,
-        "nombre":"otro servicio raro",
-        "descripcion":"Diagnóstico completo de la lavadora",
         "precio_base":null
-    },
-    {
-        "id_servicio":204.0,
-        "nombre":"Diagnostico",
-        "descripcion":"Servicio de mantenimiento preventivo",
-        "precio_base":0.0
     }
 ]

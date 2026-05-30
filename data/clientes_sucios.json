@@ -1,37 +1,37 @@
 [
     {
-        "id_cliente":660,
-        "nombre":"César Jhon Ortiz Muñoz",
-        "email":"correo_invalido.com",
-        "telefono":"(+57) 302 740 81 75",
-        "direccion":"Calle 89 # 1E-3 Este\n234235\nMontería"
+        "id_cliente":468,
+        "nombre":"Ana Sonia Barrera",
+        "email":"qmorales@example.org",
+        "telefono":"123",
+        "direccion":"Carrera 64 # 62B-3\n056270\nOlaya, Antioquia"
     },
     {
-        "id_cliente":264,
-        "nombre":"cristina díaz",
-        "email":"paola58@example.org",
-        "telefono":"57 307 392 33 62",
-        "direccion":"Cl. 56D # 35H-20 Sur\nLocal 1\n153294\nVilla de Leyva, Boyacá"
+        "id_cliente":197,
+        "nombre":"Jean Santiago Triana Rojas",
+        "email":"luzmoreno@example.com",
+        "telefono":"576053966302",
+        "direccion":"Cl. 197 # 95-57 Este\nEtapa 5 apartamento 898\n086217\nPiojó, Atlántico"
     },
     {
-        "id_cliente":764,
-        "nombre":"Patricia Vargas",
-        "email":"correo_invalido.com",
-        "telefono":"+573039927467",
-        "direccion":"Avenida Geraldine Judith Serrano Meneses # 63-8\n180238\nSolita, Caquetá"
+        "id_cliente":855,
+        "nombre":"Rosa Osorio",
+        "email":"jose27@example.com",
+        "telefono":"+573096756069",
+        "direccion":"Cr. 15 # 4-66 Sur\nOficina 72\n685687\nPáramo, Santander"
     },
     {
-        "id_cliente":484,
-        "nombre":"María Marín Serna",
-        "email":"fguzman@example.net",
-        "telefono":"3239012227",
-        "direccion":"Carrera 67 # 16-2 Sur\nApto. 799\n159991\nBoyacá, Boyacá"
+        "id_cliente":381,
+        "nombre":"Andrés Ochoa Bolaños",
+        "email":"carrillomagda@example.net",
+        "telefono":"+57 303 903 19 16",
+        "direccion":"Av. María Arias # 6-28 Este\nCasa 4\n501434\nEl Castillo, Meta"
     },
     {
-        "id_cliente":970,
-        "nombre":"Liseth Rueda Peña",
-        "email":"uribemaria@example.net",
-        "telefono":"+573254868422",
-        "direccion":"Carrera 60 # 9-60 Sur\nApartamento 334\n547244\nSan José de Cúcuta"
+        "id_cliente":667,
+        "nombre":"Rafael Vanegas Osorio",
+        "email":"manuel73@example.net",
+        "telefono":"573018454113",
+        "direccion":"Tr. 128 # 6W-8\n446882\nBarrancas, La Guajira"
     }
 ]

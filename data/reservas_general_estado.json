@@ -1,0 +1,14 @@
+[
+    {
+        "estado":"CONFIRMADA",
+        "conteo":1
+    },
+    {
+        "estado":"EN_PROCESO",
+        "conteo":1
+    },
+    {
+        "estado":"PENDIENTE",
+        "conteo":1
+    }
+]
